@@ -5,5 +5,6 @@ This graph shows the run time of a recursively defined function that sums the fi
 ![image](https://github.com/cstomp/PythonRefresher/assets/98862811/9838e8a9-23d9-4acb-b571-d78548b68d96)
 This is the image of the fibinacci using the decorator timer which takes the runtime of the function at every input from 1 to 100.
 
+![image](https://github.com/cstomp/PythonRefresher/assets/98862811/c0e1400d-005c-4922-a595-b78556b108ea)
 
 The second file called PythonRefresher is a program that mimics the echo affect. It takes a string and returns the amount of characters equal to the number of repetitions given (the defualt being 3). So given a string such as echo123 it'll repeat 3 times removing one character each time so output would be 123,23,3,.
